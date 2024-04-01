@@ -1,0 +1,31 @@
+# CMake generation dependency list for this directory.
+C:/Program Files (x86)/CMake/share/cmake-3.28/Modules/CMakeCInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.28/Modules/CMakeCXXInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.28/Modules/CMakeDependentOption.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.28/Modules/CMakeGenericSystem.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.28/Modules/CMakeRCInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.28/Modules/Compiler/MSVC-C.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.28/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.28/Modules/Compiler/MSVC.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.28/Modules/Platform/Windows.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake
+C:/Users/maico/vcpkg/installed/x64-windows/share/fltk/FLTK-Targets-debug.cmake
+C:/Users/maico/vcpkg/installed/x64-windows/share/fltk/FLTK-Targets-release.cmake
+C:/Users/maico/vcpkg/installed/x64-windows/share/fltk/FLTK-Targets.cmake
+C:/Users/maico/vcpkg/installed/x64-windows/share/fltk/FLTKConfig.cmake
+C:/Users/maico/vcpkg/scripts/buildsystems/vcpkg.cmake
+D:/projects/text_editor/CMakeLists.txt
+D:/projects/text_editor/build/CMakeFiles/3.28.3/CMakeCCompiler.cmake
+D:/projects/text_editor/build/CMakeFiles/3.28.3/CMakeCXXCompiler.cmake
+D:/projects/text_editor/build/CMakeFiles/3.28.3/CMakeRCCompiler.cmake
+D:/projects/text_editor/build/CMakeFiles/3.28.3/CMakeSystem.cmake

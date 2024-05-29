@@ -25,3 +25,4 @@ In the root folder run:
   g++ -I. -I./jpeg -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_THREAD_SAFE -D_REENTRANT -o './build/release/text_editor' './text_editor.cpp' /usr/local/lib/libfltk.a -lXrender -lXft -lfontconfig -lpthread -lm -lX11
 ```
   
+  
